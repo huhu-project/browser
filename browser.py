@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+#-*- coding:utf-8 -*-
+
+# huhu_browser
+# https://github.com/huhu-project/huhu_browser
+
+# Licensed under the MIT license:
+# http://www.opensource.org/licenses/mit-license
+# Copyright (c) 2016 Mehmet Kose mehmet@linux.com
 
 from gi.repository import Gtk, GLib, WebKit
 
